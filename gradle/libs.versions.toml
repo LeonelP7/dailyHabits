@@ -20,7 +20,7 @@ coroutines = "1.10.2" # 1.4.3 es demasiado vieja
 viewpager2 = "1.1.0"
 circleindicator = "2.1.6"
 materialdatetimepicker = "4.2.3"
-ksp = "1.9.25-1.0.20"
+ksp = "2.2.10-2.0.2"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
