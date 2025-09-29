@@ -21,6 +21,10 @@ viewpager2 = "1.1.0"
 circleindicator = "2.1.6"
 materialdatetimepicker = "4.2.3"
 ksp = "2.2.10-2.0.2"
+material = "1.10.0"
+activity = "1.11.0"
+fragment = "1.8.9"
+swiperefreshlayout = "1.1.0"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -70,6 +74,10 @@ kotlinx-coroutines-android = { group = "org.jetbrains.kotlinx", name = "kotlinx-
 androidx-viewpager2 = { group = "androidx.viewpager2", name = "viewpager2", version.ref = "viewpager2" }
 circleindicator = { group = "me.relex", name = "circleindicator", version.ref = "circleindicator" }
 materialdatetimepicker = { group = "com.wdullaer", name = "materialdatetimepicker", version.ref = "materialdatetimepicker" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+androidx-activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+androidx-fragment = { group = "androidx.fragment", name = "fragment", version.ref = "fragment" }
+androidx-swiperefreshlayout = { group = "androidx.swiperefreshlayout", name = "swiperefreshlayout", version.ref = "swiperefreshlayout" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
